@@ -3,7 +3,7 @@ project:
   output-dir: docs # set the output directory to docs to publish on github
 
 website:
-  title: "Heyuan Liu" # Step 3: 将标题改为你的名字 [cite: 39]
+  title: "Heyuan Liu" # change the tile to my name
   navbar: # define the top navigation bar
     left: # items placed on the left side of the navigation bar
       - href: index.qmd

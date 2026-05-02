@@ -1,9 +1,9 @@
 ---
 title: "Heyuan Liu"
-image: mypic.jpg  # 确保这里的文件名和后缀与你上传的文件完全一致
+image:  mypic.png
 about:
   template: jolla
-  id: ppc # the ID here tells Quarto which section of the content below should be inserted into the template.
+  id: ppc
   links:
     - icon: envelope
       text: Email
@@ -13,7 +13,7 @@ about:
       href: https://github.com/heyuanliu3-byte
 ---
 
-::: {#ppc} # make these words under appear below the avatar
+::: {#ppc}
 ## Skills
 * Data Cleaning and R Language Visualization
 * Financial and Economic Model Analysis
@@ -23,4 +23,8 @@ about:
 * **University of Colorado Denver**
 * Economics Major
 * Finance Minor
+
 :::
+```{r}
+1 + 1
+```

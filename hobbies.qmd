@@ -15,4 +15,4 @@ I love traveling to different cities and exploring their most distinctive local 
 
 ![These are the wonderful moments in my life](hobby_pic.png)
 
-[Food I explore in Boston](food_pic.png)
+![Food I explore in Boston](food_pic.png)
