@@ -1,0 +1,26 @@
+---
+title: "Heyuan Liu"
+image: mypic.jpg  # 确保这里的文件名和后缀与你上传的文件完全一致
+about:
+  template: jolla
+  id: ppc
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@colorado.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/heyuanliu3-byte
+---
+
+::: {#ppc}
+## Skills
+* Data Cleaning and R Language Visualization
+* Financial and Economic Model Analysis
+* Cryptocurrency Technology Research
+
+## Education
+* **University of Colorado Denver**
+* Economics Major
+* Finance Minor
+:::
