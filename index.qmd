@@ -1,9 +1,9 @@
 ---
 title: "Heyuan Liu"
-image: mypic.jpg  # 确保这里的文件名和后缀与你上传的文件完全一致
+image: mypic.jpg  
 about:
   template: jolla
-  id: ppc
+  id: ppc # the ID here tells Quarto which section of the content below should be inserted into the template.
   links:
     - icon: envelope
       text: Email
@@ -23,4 +23,5 @@ about:
 * **University of Colorado Denver**
 * Economics Major
 * Finance Minor
+
 :::
